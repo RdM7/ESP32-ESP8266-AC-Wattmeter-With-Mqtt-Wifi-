@@ -9,7 +9,7 @@ ESP32/ESP8266 Based WattMeter ( Blue clamp SCT013-050 Current Coil or any Curren
 - Any Current Coil
 
 ## Connections:
-- Solder 500R as Load Resistor between two terminals of Current Coil, 
+- Solder 500R as Load Resistor between two terminals of Current Coil (First and Last, not middle), 
 - Connect to ESP Analog Pin and To Ground.
 - With 22 PF Capacitor on Analog pin to Ground.
 
