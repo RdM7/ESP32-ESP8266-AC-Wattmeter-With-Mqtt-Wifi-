@@ -22,8 +22,15 @@ ESP32/ESP8266 Based WattMeter ( Blue clamp SCT013-050 Current Coil or any Curren
 ```
 
 
-## Images:
-!(Current Meter)[https://i.ibb.co/dKgHTqc/50-A-Non-invasive-AC-Current-Sensor-15-A-750x750-66373-1561065443.jpg]
-Used with Raspberry Pi (Grafana)
-!(xxx)[https://i.ibb.co/pzq2Nw2/wattmeter.jpg]
+## Coil Used by Me:
+
+
+![Current Coil](https://i.ibb.co/dKgHTqc/50-A-Non-invasive-AC-Current-Sensor-15-A-750x750-66373-1561065443.jpg)
+
+
+## Output
+
+### Used with Raspberry Pi (Grafana)
+
+![Grafaba](https://i.ibb.co/pzq2Nw2/wattmeter.jpg)
 
