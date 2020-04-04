@@ -14,9 +14,9 @@ ESP32/ESP8266 Based WattMeter ( Blue clamp SCT013-050 Current Coil or any Curren
 - With 22 PF Capacitor on Analog pin to Ground.
 
 ## Preparing:
--The firmware will compile on both ESP32 & ESP8266 Modules, You can choose Analog input pin like:
+- The firmware will compile on both ESP32 & ESP8266 Modules, You can choose Analog input pin like:
 
--In includes.h edit inputPin 
+- In includes.h edit inputPin 
 ```
 #define inputPin  A0
 ```
