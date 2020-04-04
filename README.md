@@ -21,16 +21,23 @@ ESP32/ESP8266 Based WattMeter ( Blue clamp SCT013-050 Current Coil or any Curren
 #define inputPin  A0
 ```
 
+## Calibrate Watts:
+- In wattmeter.ino tweak the average multiplier (8.25) to match your actual load (at current time)
+- if you are using same coil like me, you don't need to calibrate.
+```
+average = (average * 8.25); // Calibrated to set Var:average to Actual Watts
+```
+
+- When your load is same as current actual load, then you can calculate costs.
+
 
 ## Coil Used by Me:
 
-
-![Current Coil](https://i.ibb.co/dKgHTqc/50-A-Non-invasive-AC-Current-Sensor-15-A-750x750-66373-1561065443.jpg)
-
+![Current Coil](https://i.ibb.co/SrZK2KD/coil.jpg)
 
 ## Output
 
 ### Used with Raspberry Pi (Grafana)
 
-![Grafaba](https://i.ibb.co/pzq2Nw2/wattmeter.jpg)
+![Grafaba](https://i.ibb.co/bJGrxrj/coil.jpg)
 
