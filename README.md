@@ -39,5 +39,5 @@ average = (average * 8.25); // Calibrated to set Var:average to Actual Watts
 
 ### Used with Raspberry Pi (Grafana)
 
-![Grafaba](https://i.ibb.co/bJGrxrj/coil.jpg)
+![Grafana](https://i.ibb.co/pzq2Nw2/wattmeter.jpg)
 
